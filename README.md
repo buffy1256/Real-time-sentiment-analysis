@@ -8,6 +8,7 @@ Real-time-sentiment-analysis is a tool that takes a user input and predict senti
 - Streamlit 1.0.0 or higher
 - Pandas 1.0.0 or higher
 - Matplotlib 3.0.0 or higher
+- nltk 1.0.0. or higher
 
 ## Installation
 
@@ -23,7 +24,7 @@ Or Download files one by one (Do it as you want).
 2. Install the required dependencies using pip:
 
 ```
-pip install streamlit pandas matplotlib
+pip install streamlit nltk matplotlib
 ```
 3. Open your anaconda prompt.
 
