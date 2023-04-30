@@ -17,7 +17,7 @@ To install Real-time-sentiment-analysis, follow these steps:
 1. Clone the repository from GitHub:
 
 ```
-git clone https://github.com/username/project-name.git
+git clone https://github.com/buffy1256/Real-time-sentiment-analysis.git
 ```
 Or Download files one by one (Do it as you want).
 
