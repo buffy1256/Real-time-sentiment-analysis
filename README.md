@@ -33,10 +33,10 @@ pip install streamlit nltk matplotlib
 cd C:\Users\username\Documents\myproject
 
 ```
-5. Run the first.py file :
+5. Run the rtsa.py file :
 
 ```
-streamlit run first.py
+streamlit run rtsa.py
 ```
 # Step 5 file redirect you to your local host server.
 # Enter any text and find your sentiment geek😉😉.
