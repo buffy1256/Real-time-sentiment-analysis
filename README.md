@@ -40,7 +40,7 @@ streamlit run rtsa.py
 ```
 6.Output should look like this:
 ```
-[output 1](op1.png)
+![output 1](https://github.com/buffy1256/Real-time-sentiment-analysis/blob/main/op1.png)
 ```
 
 # Step 5 file redirect you to your local host server.
