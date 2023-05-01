@@ -39,7 +39,7 @@ cd C:\Users\username\Documents\myproject
 streamlit run rtsa.py
 
 ```
-6.Step 5 file redirect you to your local host server.
+6.Step 5 will redirect you to your local host server.
 
 7.Output should look like this:
 
