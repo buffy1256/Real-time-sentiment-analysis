@@ -39,8 +39,9 @@ cd C:\Users\username\Documents\myproject
 streamlit run rtsa.py
 
 ```
-Step 5 file redirect you to your local host server.
-6.Output should look like this:
+6.Step 5 file redirect you to your local host server.
+
+7.Output should look like this:
 
 ![output 1](https://github.com/buffy1256/Real-time-sentiment-analysis/blob/main/op1.png)
 ![output 1](https://github.com/buffy1256/Real-time-sentiment-analysis/blob/main/op2.png)
