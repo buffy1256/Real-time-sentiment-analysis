@@ -38,6 +38,11 @@ cd C:\Users\username\Documents\myproject
 ```
 streamlit run rtsa.py
 ```
+6.Output should look like this:
+```
+[output 1]
+```
+
 # Step 5 file redirect you to your local host server.
 # Enter any text and find your sentiment geek😉😉.
 
